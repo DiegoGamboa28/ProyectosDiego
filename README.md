@@ -1,5 +1,4 @@
 # ProyectosDiego
-Introducción a GitHub
 
 Personal information
 
